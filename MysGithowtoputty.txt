@@ -1,4 +1,5 @@
-﻿Generate ssh-key with Putty 101
+﻿ändingar gjorda i MysGit
+Generate ssh-key with Putty 101
 Open PuTTY Key Geneatator (comes with TortoiseGit)
 generate key
 save public key
