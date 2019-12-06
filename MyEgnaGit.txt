@@ -1,0 +1,2 @@
+﻿Hej, det här är en sandlåda för att testa hur git funkar- Bara för mig själv.
+Funka!!
